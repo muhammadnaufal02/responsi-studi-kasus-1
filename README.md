@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : [MUHAMMAD_NAUFAL_FADHLURRAHMAN_SURIADIREJA]  
+NIU : [456847]  
+Sesi : [PAGI]  
+Secret String : [python3 -m secret-string.pyc --niu <456847>]
 
 ## Checklist Responsi
 
